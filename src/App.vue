@@ -2,7 +2,7 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">主页</router-link> |
-      <router-link to="/about">关ABC12于</router-link>
+      <router-link to="/about">关ABC123于</router-link>
     </div>
     <router-view/>
   </div>
